@@ -1,7 +1,7 @@
 version: "1"
 rules:
   - base: master
-    upstream: owner:master
+    upstream: meng-chuan:master
     mergeMethod: hardreset
   - base: docs
     upstream: owner:docs
